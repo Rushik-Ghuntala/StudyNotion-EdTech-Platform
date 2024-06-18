@@ -2,12 +2,12 @@
 <div align="center">
 <h1>StudyNotion: The Ed-Tech Platform</h1>
 
-<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform"><img src="https://sloc.xyz/github/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="LOC"/></a>
-<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rushik-Ghuntala.StudyNotion-EdTech-Platform" alt="visitor count"/></a>
-<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/stargazers"><img src="https://img.shields.io/github/stars/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="Stars Badge"/></a>
+<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform" target="_blank"><img src="https://sloc.xyz/github/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="LOC"/></a>
+<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rushik-Ghuntala.StudyNotion-EdTech-Platform" alt="visitor count"/></a>
+<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="Stars Badge"/></a>
 <!-- 
-<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/network/members"><img src="https://img.shields.io/github/forks/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="Forks Badge"/></a>
-<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Rushik-Ghuntala/StudyNotion-EdTech-Platform?color=2b9348"></a>
+<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/network/members" target="_blank"><img src="https://img.shields.io/github/forks/Rushik-Ghuntala/StudyNotion-EdTech-Platform" alt="Forks Badge"/></a>
+<a href="https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/graphs/contributors" target="_blank"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Rushik-Ghuntala/StudyNotion-EdTech-Platform?color=2b9348"></a>
 -->
 
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
