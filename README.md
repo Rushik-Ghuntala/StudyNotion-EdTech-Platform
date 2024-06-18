@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://socialify.git.ci/Rushik-Ghuntala/StudyNotion-EdTech-Platform/image?description=1&descriptionEditable=An%20Open-Source%20repository%20that%20contains%20all%20the%20Data%20Structures%20and%20Algorithms%20concepts%20and%20their%20implementation%20in%20several%20ways.&font=Raleway&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="StudyNotion - By Rushik Ghuntala" width="100%" height="320" align="center" />
+<img src="https://socialify.git.ci/Rushik-Ghuntala/StudyNotion-EdTech-Platform/image?description=1&descriptionEditable=StudyNotion%20is%20a%20fully%20functional%20ed-tech%20platform%20that%20enables%20users%20to%20create,%20consume,%20and%20rate%20educational%20content.&font=Raleway&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light" alt="StudyNotion - By Rushik Ghuntala" width="100%" height="320" align="center" />
 
 <!--
 <img src="https://github.com/Rushik-Ghuntala/NEW2/assets/97880269/bd68268d-399a-463e-acb3-1f3c31cf98a1" alt="Home Page"  style="margin: auto; width: 50%;"  />
