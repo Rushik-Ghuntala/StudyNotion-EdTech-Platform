@@ -59,7 +59,8 @@ If you're practising on the coding platforms mentioned above, also if you want t
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Log In Page (1)](https://github.com/Rushik-Ghuntala/NEW2/assets/97880269/bd68268d-399a-463e-acb3-1f3c31cf98a1)
+![Log In Page (1)](https://github.com/Rushik-Ghuntala/StudyNotion-EdTech-Platform/assets/97880269/291f8ffa-42f9-4cd7-b9e9-7afbc978927f)
+
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
